@@ -1,5 +1,7 @@
 # Worldhalla
 
+*This application has nothing to do with the discord server named Worldhalla*
+
 Application that slowly collects all clans in the world their id and name
 
 ## clans data 
